@@ -26,6 +26,10 @@ photolist_100.txt contains the photo list;
 
 
 
-Organizers: Lu Zhang, Jingsong Xu, Yongshun Gong, and Jian Zhang
+### Organizers: 
 
-Reference: Image and Text Matching for Travel InformationEnhancement, Lu Zhang, Jingsong Xu, Yongshun Gong, and Jian Zhang
+Lu Zhang, Jingsong Xu, Yongshun Gong, and Jian Zhang
+
+### Reference: 
+
+Image and Text Matching for Travel InformationEnhancement, Lu Zhang, Jingsong Xu, Yongshun Gong, and Jian Zhang
